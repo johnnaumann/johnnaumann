@@ -1,3 +1,5 @@
+#### Who am I?
+
 Developer, writer, and generative artist exploring the intersection of code and creativity.
 
 #### What I'm up to
