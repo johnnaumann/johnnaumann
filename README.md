@@ -1,7 +1,11 @@
-### Hi 👋, I'm John
+Developer, writer, and generative artist exploring the intersection of code and creativity.
 
-I'm a UI engineer and generative artist working with React, Next.js, and AI-driven workflows
+## What I'm up to
 
-- 🌱 Currently exploring **robot telemetry for interface generation**
-- 💻 Building **Next.js + AI applications**
-- 🎨 Love generative art & design systems
+- **Writing** about generative art and procedural image-making on [Substack](https://johnnaumann.substack.com/)
+- **Building** software solutions as a [Toptal developer](https://talent.toptal.com/resume/developers/john-robert-naumann)
+- **Creating** generative images with code on [Instagram](https://www.instagram.com/anthropo_scenic_/)
+
+## Current focus
+
+Working on **Anthroposcenic** — generative and procedural image-making with drone data. Exploring how code can transform raw sensor data into compelling visual narratives.
