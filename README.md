@@ -1,4 +1,4 @@
-### 👋 Hi, I’m John Pett
+### 👋 Hi, I’m John Naumann
 
 I’m a **front-end engineer, creative technologist, and generative artist** exploring the boundaries between **code, data, and visual storytelling**. With a background in **design-driven React/Next.js engineering** and a passion for **art–technology hybrids**, I build tools, systems, and visuals where software becomes an expressive medium.
 
