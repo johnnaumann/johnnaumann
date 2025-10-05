@@ -11,4 +11,4 @@ Developer, writer, and generative artist exploring the intersection of code and 
 
 #### 🎯 Current focus
 
-Working on **Anthroposcenic** — generative and procedural image-making with drone data. 🚁 Exploring how code can transform raw sensor data into compelling visual narratives. 📊➡️🖼️
+Working on **Anthroposcenic** — generative and procedural image-making with drone data. Exploring how code can transform raw sensor data into compelling visual narratives. 🚁
