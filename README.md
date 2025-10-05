@@ -1,4 +1,4 @@
-## Hi 👋, I'm John
+### Hi 👋, I'm John
 
 I'm a UI engineer and generative artist working with React, Next.js, and AI-driven workflows
 
