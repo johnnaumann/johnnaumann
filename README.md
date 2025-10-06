@@ -4,7 +4,7 @@ I’m a **Senior UI Engineer** working with [Toptal](https://talent.toptal.com/r
 
 ### ✍️ Writing & Research
 
-On [Substack](https://johnnaumann.substack.com/), I write about the intersection of **technology, art, and code** — currently exploring **agentic AI workflows for generative art**. My goal is to document and share how modern software engineering practices (versioning, modular pipelines, automation) can empower creative production.
+On [Substack](https://johnnaumann.substack.com/), I write about the intersection of **technology, art, and code** — currently exploring **agentic AI workflows for generative art**. My goal is to document and share how modern software engineering practices can empower creative production.
 
 ### 🎨 Generative Art
 
@@ -12,5 +12,4 @@ I create **generative and procedural artworks**, often transforming real-world d
 
 ### 🤝 Open to Collaboration
 
-I’m always interested in connecting with other **engineers, artists, and creative technologists** to explore new ideas and build meaningful projects at the intersection of art and code.
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/john-naumann-b438b42bb/).
+I’m always interested in connecting with other **engineers, artists, and creative technologists** to explore new ideas and build meaningful projects at the intersection of art and code. Let’s connect on [LinkedIn](https://www.linkedin.com/in/john-naumann-b438b42bb/).
