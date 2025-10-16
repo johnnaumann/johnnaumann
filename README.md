@@ -8,6 +8,10 @@ On [Substack](https://johnnaumann.substack.com/), I write about the intersection
 
 I create **generative and procedural artworks**, often transforming real-world data into rich visual narratives. My latest series, **Anthroposcenic**, explores how sensor and drone data can be turned into algorithmic landscapes. You can find my work on [Instagram](https://www.instagram.com/anthropo_scenic_/).
 
+### Teaching
+
+I am a previous lecturer at [Harbour Space](https://harbour.space/faculty/john-pett), a leading technolgy univeristy, teaching about creative coding systems. I have also previously taught courses for [Cyber Patio](https://www.instagram.com/cyberpatio).
+
 ### Open to Collaboration
 
 I’m always interested in connecting with other **engineers, artists, and creative technologists** to explore new ideas and build meaningful projects at the intersection of the visual arts and code. Let’s connect on [LinkedIn](https://www.linkedin.com/in/john-naumann-b438b42bb/).
