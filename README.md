@@ -10,4 +10,4 @@ I create **generative and procedural artworks**, often transforming real-world d
 
 ### Open to Collaboration
 
-I’m always interested in connecting with other **engineers, artists, and creative technologists** to explore new ideas and build meaningful projects at the intersection of art and code. Let’s connect on [LinkedIn](https://www.linkedin.com/in/john-naumann-b438b42bb/).
+I’m always interested in connecting with other **engineers, artists, and creative technologists** to explore new ideas and build meaningful projects at the intersection of the visual arts and code. Let’s connect on [LinkedIn](https://www.linkedin.com/in/john-naumann-b438b42bb/).
