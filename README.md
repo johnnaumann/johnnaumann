@@ -6,7 +6,7 @@ On [Substack](https://johnnaumann.substack.com/), I write about the intersection
 
 ### Generative Art
 
-I create **generative and procedural artworks**, often transforming real-world data into rich visual narratives. My latest series, **Anthroposcenic**, explores how sensor and drone data can be turned into algorithmic landscapes. You can find my work on [Instagram](https://www.instagram.com/anthropo_scenic_/)
+I create **generative and procedural artworks**, often transforming real-world data into rich visual narratives. My latest series, **Anthroposcenic**, explores how sensor and drone data can be turned into algorithmic landscapes. You can find my work on [Instagram](https://www.instagram.com/anthroposcenic.xyz/)
 
 ### Teaching
 
