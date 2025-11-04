@@ -1,6 +1,6 @@
 ### Current Employment
 
-Senior Frontend Developer at [Schmiede One](https://schmiede.one) – I build and prototype interfaces that connect digital systems with physical robot hardware — exploring the future of agricultural automation, sensing, and sustainable robotics.
+**Senior Frontend Developer** at [Schmiede One](https://schmiede.one) – I build and **prototype interfaces** that connect digital systems with **physical robot hardware** — exploring the future of **agricultural automation, sensing, and sustainable robotics**.
 
 I’m also a **Senior UI Engineer** working with [Toptal](https://talent.toptal.com/resume/developers/john-robert-naumann), specialising in **design-driven front-end development**. My work blends **Figma-based design systems** with modern frameworks such as **React, Next.js, and Expo** to build polished, scalable user interfaces.
 
