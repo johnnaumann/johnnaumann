@@ -1,4 +1,4 @@
-### John Naumann
+### Current Employment
 
 I’m a **Senior UI Engineer** working with [Toptal](https://talent.toptal.com/resume/developers/john-robert-naumann), specialising in **design-driven front-end development**. My work blends **Figma-based design systems** with modern frameworks such as **React, Next.js, and Expo** to build polished, scalable user interfaces.
 
