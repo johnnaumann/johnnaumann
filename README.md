@@ -2,11 +2,11 @@
 
 **Senior Software Engineer** at [Schmiede One](https://schmiede.one) – Building interfaces that connect digital systems with physical robot hardware for agricultural automation, sensing, and sustainable robotics.
 
-### Writing & Research
+### Writing
 
 Writing on [Substack](https://johnnaumann.substack.com/) about technology, art, and code, with a focus on agentic AI workflows for generative art. Documenting how software engineering practices can support creative production.
 
-### Generative Art
+### Art
 
 Creating generative and procedural artworks, transforming real-world data into visual narratives. The **Anthroposcenic** series explores how sensor and drone data can be turned into algorithmic landscapes. Work available on [Instagram](https://www.instagram.com/anthroposcenic.xyz/).
 
