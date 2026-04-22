@@ -1,4 +1,4 @@
-### Current Employment
+### Employment
 
 **Senior Software Engineer** at [Schmiede One](https://schmiede.one) – Building interfaces that connect digital systems with physical robot hardware for agricultural automation, sensing, and sustainable robotics.
 
