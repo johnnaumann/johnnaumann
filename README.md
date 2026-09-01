@@ -1,8 +1,8 @@
 ### Employment
 
-**Senior Software Engineer** at [Schmiede One](https://schmiede.one) – Building interfaces that connect digital systems with physical robot hardware for agricultural automation, sensing, and sustainable robotics.
-
 **Senior UI Developer** via [Toptal](https://www.toptal.com/developers/resume/john-robert-naumann) – Independent consultant delivering front-end architecture, design systems, and performance-critical interfaces for high-growth startups and global enterprises.
+
+**Senior Software Engineer** at [Schmiede One](https://schmiede.one) – Building interfaces that connect digital systems with physical robot hardware for agricultural automation, sensing, and sustainable robotics.
 
 ### Writing
 
